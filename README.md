@@ -1,1 +1,2 @@
 # Flight_reservation
+Details like origin, destination of three different flights are stored in 3 different excel sheets. Using pandas the data is imported. When ever the person enters origin and destination, the flights avaliable will be shown along with the timings. According to the number of passengers, seats will be alloted and number of seats avaliable will be changed accordingly(The details of the passenger should be entered). According to the flight choosed, the cost of the ticket, i.e., the amount to be paid will be displayed. And alloted seat numbers will be shown.

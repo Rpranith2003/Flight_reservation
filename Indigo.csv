@@ -1,0 +1,100 @@
+Flight No.,Origin,Destination,Departure,Arrival,Effective From, Effective To
+,Ahmedabad(AMD),Lucknow(LKO),9:10,18:45,10/25/2021,10/31/2021
+,Ahmedabad(AMD),Guwahati(GAU),6:10,16:20,10/25/2021,2/1/2022
+,Ahmedabad(AMD),Varanasi(VNS),6:15,11:25,10/25/2021,10/31/2021
+,Ahmedabad(AMD),Goa(GOI),18:15,19:55,10/25/2021,10/31/2021
+,Ahmedabad(AMD),Bhubaneswar(BBI),22:20,14:10,10/26/2021,10/28/2021
+,Ahmedabad(AMD),Amritsar(ATQ),12:55,15:15,10/26/2021,11/28/2021
+,Ahmedabad(AMD),Kochi(COK),21:35,10:50,10/25/2021,10/31/2021
+,Amritsar(ATQ),Tirupati(TIR),6:50,13:35,10/25/2021,11/30/2021
+,Amritsar(ATQ),Lucknow(LKO),9:55,14:50,10/31/2021,2/1/2022
+,Amritsar(ATQ),Nagpur(NAG),22:50,7:00,10/25/2021,11/30/2021
+,Amritsar(ATQ),Goa(GOI),10:40,19:10,10/25/2021,10/31/2021
+,Amritsar(ATQ),Kochi(COK),9:55,18:50,10/25/2021,2/5/2022
+,Bangalore(BLR),Nagpur(NAG),17:50,23:25,10/31/2021,11/28/2021
+,Bangalore(BLR),Guwahati(GAU),23:20,6:40,10/31/2021,12/3/2021
+,Bangalore(BLR),Kolkata(CCU),12:55,19:20,11/3/2021,11/30/2021
+,Bangalore(BLR),Mumbai(BOM),5:45,9:15,11/3/2021,3/30/2022
+,Bangalore(BLR),Hyderabad(HYD),5:45,14:50,10/31/2021,2/1/2022
+,Coimbatore(CJB),Tirupati(TIR),11:40,19:30,10/25/2021,11/30/2021
+,Delhi (DEL),Coimbatore(CJB),5:55,11:10,10/31/2021,2/1/2022
+,Delhi (DEL),Coimbatore(CJB),11:35,17:35,10/25/2021,11/30/2021
+,Delhi (DEL),Srinagar(SXR),7:40,9:00,10/26/2021,10/31/2021
+,Delhi (DEL),Srinagar(SXR),17:30,19:00,10/25/2021,11/3/2021
+,Delhi (DEL),Tiruchirapalli(TRZ),22:30,9:20,10/27/2021,10/31/2021
+,Delhi (DEL),Tiruchirapalli(TRZ),9:45,18:20,10/26/2021,10/31/2021
+,Delhi (DEL),Goa(GOI),5:35,12:25,10/25/2021,10/31/2021
+,Delhi (DEL),Goa(GOI),19:55,7:25,10/25/2021,2/5/2022
+,Goa (GOI),Kochi(COK),9:00,13:25,10/25/2021,11/2/2021
+,Goa (GOI),Varanasi(VNS),14:50,20:00,10/25/2021,2/1/2022
+,Goa (GOI),Nagpur(NAG),14:25,20:30,10/26/2021,10/28/2021
+,Goa (GOI),Srinagar(SXR),13:25,19:00,10/31/2021,10/28/2021
+,Guwahati (GAU),Kochi(COK),14:55,20:10,10/31/2021,11/28/2021
+,Guwahati (GAU),Varanasi(VNS),19:30,7:15,10/31/2021,12/3/2021
+,Guwahati (GAU),Nagpur(NAG),11:10,20:40,11/1/2021,12/1/2021
+,Guwahati (GAU),Coimbatore(CJB),6:25,11:00,11/2/2021,12/31/2021
+,Guwahati (GAU),Srinagar(SXR),9:00,16:00,11/3/2021,11/30/2021
+,Hyderbad(HYD),Srinagar(SXR),6:00,10:30,11/3/2021,3/30/2022
+,Hyderbad(HYD),Srinagar(SXR),8:40,13:25,10/31/2021,12/3/2021
+,Hyderbad(HYD),Srinagar(SXR),22:45,7:10,10/26/2021,2/1/2022
+,Hyderbad(HYD),Coimbatore(CJB),9:50,11:10,10/31/2021,2/1/2022
+,Indore (IDR),Varanasi(VNS),8:30,14:45,10/31/2021,11/28/2021
+,Indore (IDR),Varanasi(VNS),16:25,22:40,10/31/2021,12/3/2021
+,Indore (IDR),Kochi(COK),11:55,16:30,11/1/2021,12/1/2021
+,Indore (IDR),Kochi(COK),7:30,16:30,11/2/2021,12/31/2021
+,Indore (IDR),Coimbatore(CJB),6:30,11:10,11/3/2021,11/30/2021
+,Indore (IDR),Coimbatore(CJB),16:25,23:50,11/3/2021,3/30/2022
+,Indore (IDR),Tiruchirapalli(TRZ),10:40,18:05,10/31/2021,12/3/2021
+,Indore (IDR),Tiruchirapalli(TRZ),6:30,18:20,10/26/2021,2/1/2022
+,Indore (IDR),Tirupati(TIR),6:30,11:00,10/31/2021,2/1/2022
+,Indore (IDR),Tirupati(TIR),17:05,9:10,10/25/2021,11/30/2021
+,Indore (IDR),Goa(GOI),6:30,10:45,10/26/2021,10/31/2021
+,Indore (IDR),Goa(GOI),15:20,20:50,10/25/2021,11/3/2021
+,Jaipur (JAI),Varanasi(VNS),7:40,14:25,10/27/2021,10/31/2021
+,Jaipur (JAI),Varanasi(VNS),12:10,22:40,10/26/2021,10/31/2021
+,Jaipur (JAI),Amritsar(ATQ),5:50,7:05,10/25/2021,10/31/2021
+,Jaipur (JAI),Amritsar(ATQ),13:55,19:15,10/25/2021,2/5/2022
+,Jaipur (JAI),Amritsar(ATQ),8:40,6:15,10/25/2021,11/2/2021
+,Jaipur (JAI),Goa(GOI),23:05,7:25,10/25/2021,2/1/2022
+,Jaipur (JAI),Goa(GOI),8:20,19:55,10/26/2021,10/28/2021
+,Jaipur (JAI),Goa(GOI),10:10,14:25,10/31/2021,10/28/2021
+,Jaipur (JAI),Kochi(COK),11:50,18:45,10/31/2021,11/28/2021
+,Jaipur (JAI),Kochi(COK),9:40,16:55,10/31/2021,12/3/2021
+,Jaipur (JAI),Coimbatore(CJB),6:15,11:10,11/1/2021,12/1/2021
+,Jaipur (JAI),Coimbatore(CJB),10:05,15:30,11/2/2021,12/31/2021
+,Jaipur (JAI),Tiruchirapalli(TRZ),10:50,18:05,11/3/2021,11/30/2021
+,Jaipur (JAI),Tiruchirapalli(TRZ),6:30,18:05,11/3/2021,3/30/2022
+,Jaipur (JAI),Tirupati(TIR),6:15,11:00,10/31/2021,12/3/2021
+,Jaipur (JAI),Tirupati(TIR),20:15,7:45,10/26/2021,2/1/2022
+,Jaipur (JAI),Guwahati(GAU),9:40,18:30,10/31/2021,2/1/2022
+,Jaipur (JAI),Guwahati(GAU),21:10,10:15,10/25/2021,11/30/2021
+,Jaipur (JAI),Srinagar(SXR),7:40,11:40,10/26/2021,10/31/2021
+,Jaipur (JAI),Srinagar(SXR),13:55,19:00,10/25/2021,11/3/2021
+,Jaipur (JAI),Lucknow(LKO),13:55,17:35,10/27/2021,10/31/2021
+,Jaipur (JAI),Lucknow(LKO),7:40,17:35,10/26/2021,10/31/2021
+,Kolkata (CCU) ,Srinagar(SXR),5:45,10:30,10/25/2021,10/31/2021
+,Kolkata (CCU) ,Srinagar(SXR),1:10,7:35,10/25/2021,2/5/2022
+,Kolkata (CCU) ,Coimbatore(CJB),5:45,15:00,10/25/2021,11/2/2021
+,Kolkata (CCU) ,Coimbatore(CJB),16:35,21:30,10/25/2021,2/1/2022
+,Kolkata (CCU) ,Kochi(COK),16:15,20:45,10/26/2021,10/28/2021
+,Kolkata (CCU) ,Kochi(COK),0:05,8:05,10/31/2021,10/28/2021
+,Kolkata (CCU) ,Tirupati(TIR),5:45,11:00,10/31/2021,11/28/2021
+,Kolkata (CCU) ,Amritsar(ATQ),17:10,7:05,10/31/2021,12/3/2021
+,Kolkata (CCU) ,Amritsar(ATQ),7:45,10:20,11/1/2021,12/1/2021
+,Kolkata (CCU) ,Nagpur(NAG),9:40,15:40,11/2/2021,12/31/2021
+,Kolkata (CCU) ,Nagpur(NAG),19:50,7:45,11/3/2021,11/30/2021
+,Kolkata (CCU) ,Guwahati(GAU),9:30,10:40,11/3/2021,3/30/2022
+,Kolkata (CCU) ,Guwahati(GAU),14:50,16:00,10/31/2021,12/3/2021
+,Kolkata (CCU) ,Lucknow(LKO),15:30,20:45,10/26/2021,2/1/2022
+,Kolkata (CCU) ,Lucknow(LKO),5:45,18:45,10/31/2021,2/1/2022
+,Kolkata (CCU) ,Goa(GOI),10:35,15:00,10/25/2021,11/30/2021
+,Kolkata (CCU) ,Goa(GOI),21:50,7:00,10/26/2021,10/31/2021
+,Mumbai (BOM),Varanasi(VNS),15:00,17:05,10/25/2021,11/3/2021
+,Mumbai (BOM),Varanasi(VNS),9:45,12:05,10/27/2021,10/31/2021
+,Mumbai (BOM),Goa(GOI),5:35,6:50,10/26/2021,10/31/2021
+,Mumbai (BOM),Goa(GOI),14:20,15:40,10/25/2021,10/31/2021
+,Mumbai (BOM),Goa(GOI),16:45,18:00,10/25/2021,2/5/2022
+,Mumbai (BOM),Tirupati(TIR),6:55,9:10,10/25/2021,11/2/2021
+,Mumbai (BOM),Tirupati(TIR),21:25,11:00,10/25/2021,2/1/2022
+,Mumbai (BOM),Lucknow(LKO),19:40,21:50,10/26/2021,10/28/2021
+,Mumbai (BOM),Lucknow(LKO),22:15,6:00,10/31/2021,10/28/2021
